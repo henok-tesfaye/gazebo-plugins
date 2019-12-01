@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/apple/catkin_ws/devel/setup.sh

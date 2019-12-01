@@ -4,4 +4,4 @@
 
 ## ROS aware plugin
 
-![ROS-aware-plugin](https://github.com/henok-tesfaye/gazebo-plugins/blob/master/ROS-aware-plugin)
+![ROS-aware-plugin](https://github.com/henok-tesfaye/gazebo-plugins/blob/master/ROS-aware-plugin.png)

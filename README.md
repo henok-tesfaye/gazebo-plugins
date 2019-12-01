@@ -1,4 +1,7 @@
 # gazebo-plugins
 
-![apply-force-to-link1](https://github.com/henok-tesfaye/gazebo-plugins/blob/master/gazebo_plugin_tutorial/apply-force.png)
+![apply-force-to-link1](https://github.com/henok-tesfaye/gazebo-plugins/blob/master/apply-force.png)
 
+## ROS aware plugin
+
+![ROS-aware-plugin](https://github.com/henok-tesfaye/gazebo-plugins/blob/master/ROS-aware-plugin)
